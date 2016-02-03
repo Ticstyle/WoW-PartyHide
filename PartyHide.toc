@@ -1,0 +1,11 @@
+## Interface: 50400
+## Title: PartyHide
+## Author: StoffeTiX @ Ticstyle
+## Version: 5.4.8
+## X-Curse-Packaged-Version: 5.4.8
+## X-Curse-Project-Name: PartyHide
+## X-Curse-Project-ID: partyhide
+## Website: http://partyhide.ticstyle.se/
+## Donate: http://donate.ticstyle.se/
+## Notes: Hides Blizzards party frames.                                 Author: |cff7f7fffTicstyle|r
+PartyHide.xml
